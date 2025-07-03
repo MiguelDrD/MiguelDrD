@@ -29,7 +29,6 @@
 - Iniciação Científica – NuGAME: Experiência em pesquisa e inovação, explorando novas tecnologias.
 - Curso de Iniciação Profissional – São Martinho: Aprendizado em ética profissional, comunicação e postura no ambiente de trabalho.
 - Certificação DELF A1 (Francês): Conhecimento básico no idioma francês.
-- Python Básico: Primeiros passos na programação e automação de processos.
 
 
 ### Estou aberto a novas ideias, colaborações e projetos inovadores!
