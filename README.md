@@ -5,7 +5,7 @@
 
 #### Atualmente estou cursando ciência da computação pela UFF
 
-![MiguelDrD GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelDrD&show_icons=true&theme=radical)
+![MiguelDrD status](https://github-readme-stats.vercel.app/api?username=MiguelDrD&show_icons=true&theme=radical)
 
 ### 💻 Tecnologias:
 
