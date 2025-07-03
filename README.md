@@ -36,5 +36,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/migueldenner)
 [![Gmail](https://img.shields.io/badge/Gmail-c32f27?style=for-the-badge&logo=gmail&logoColor=white)](migueldennerrocha@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-ff0055?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelx.denner/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/5521976195957?text=Olá,%20gostaria%20de%20mais%20informações))
-
