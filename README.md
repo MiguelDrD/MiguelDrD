@@ -17,7 +17,7 @@
     <img align="center" alt="html5" src="SVG/NODEJS.svg">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-1500ff?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-014f86?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-ff7b00?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-ff7b00?style=for-the-badge&logo=git&logoColor=white"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-e5e5e5?style=for-the-badge">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
 </div>
