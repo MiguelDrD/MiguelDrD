@@ -7,16 +7,6 @@
 
 ![MiguelDrD GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelDrD&show_icons=true&theme=radical)
 
-### 🎯 Habilidades & Certificações:
-
-- Pacote Office Avançado: Criação de dashboards no Excel, apresentações criativas no PowerPoint e textos bem estruturados no Word.
-- Certificado em Inteligência Artificial: Conhecimento em conceitos fundamentais de IA e suas aplicações no mundo corporativo.
-- Certificado em Inteligência Emocional: Desenvolvimento de habilidades interpessoais, liderança e controle emocional.
-- Iniciação Científica – NuGAME: Experiência em pesquisa e inovação, explorando novas tecnologias.
-- Curso de Iniciação Profissional – São Martinho: Aprendizado em ética profissional, comunicação e postura no ambiente de trabalho.
-- Certificação DELF A1 (Francês): Conhecimento básico no idioma francês.
-- Python Básico: Primeiros passos na programação e automação de processos.
-
 ### Tecnologias:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +19,17 @@
 ![GIT](https://img.shields.io/badge/GIT-ff7b00?style=for-the-badge&logo=git&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-e5e5e5?style=for-the-badge)
 ![FIGMA](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### 🎯 Habilidades & Certificações:
+
+- Pacote Office Avançado: Criação de dashboards no Excel, apresentações criativas no PowerPoint e textos bem estruturados no Word.
+- Certificado em Inteligência Artificial: Conhecimento em conceitos fundamentais de IA e suas aplicações no mundo corporativo.
+- Certificado em Inteligência Emocional: Desenvolvimento de habilidades interpessoais, liderança e controle emocional.
+- Iniciação Científica – NuGAME: Experiência em pesquisa e inovação, explorando novas tecnologias.
+- Curso de Iniciação Profissional – São Martinho: Aprendizado em ética profissional, comunicação e postura no ambiente de trabalho.
+- Certificação DELF A1 (Francês): Conhecimento básico no idioma francês.
+- Python Básico: Primeiros passos na programação e automação de processos.
 
 
 ### Estou aberto a novas ideias, colaborações e projetos inovadores!
